@@ -1,11 +1,11 @@
 # GamblingTec RNG
 
 ## About
-This is a very simple wrapper for the Zend/Math/Rand which has been certified by Sunseven NV for use with
-a Curacao gambling license.
+This is a simple wrapper using Zend/Math/Rand which has been certified by Sunseven NV for use with
+a Curacao Gambling License.
 
-The wrapper is freely available for use by the community. Should you build a game using the wrapper, we can assist by
-with your games RNG certification if it uses the wrapper.
+The wrapper is freely available for use by the gambling community. By using this wrapper, we can assist you
+with RNG certification which is a pre-requisite of a gambling license.
 
 The advantages of using this wrapper is that we have already gone through the timely process of having the 
 Zend/Math/Rand class approved for gambling activities and for this reason we can offer you a certificate for
