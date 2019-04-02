@@ -1,18 +1,28 @@
 # GamblingTec RNG
 
+## About
+This is a very simple wrapper for the Zend/Math/Rand which has been certified by Sunseven NV for use with
+a Curacao gambling license.
+
+The wrapper is freely available for use by the community. Should you build a game using the wrapper, we can assist you
+having it certified for RNG purposes. 
+
+The advantages of using this wrapper is that we have already gone through the timely process of having the 
+Zend/Math/Rand class approved for gambling activities and for this reason we can offer you a certificate for
+your games quickly.
+
 ### Test Utility (command line)
 
-For a demonstration of the GamblingTec RNG, please see: https://github.com/sunsevennv/gamblingtec-rng
+For a demonstration of the GamblingTec RNG, please see: https://github.com/sunsevennv/gamblingtec-rng which is a 
+command line utility using the wrapper.
 
-### About this RNG
-
-This RNG uses Zend/Math/Rand which has been certified by GamblingTec to be used with gambling related games.
+### About Zend/Math/Rand
 
 You can read about it here: https://docs.zendframework.com/zend-math/rand/
 
 ### Prerequisites
 
-- PHP 7 +
+- PHP 7.0 +
 
 ## Gambling License
 
