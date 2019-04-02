@@ -1,0 +1,42 @@
+{
+    "name": "gamblingtec/certified-rng",
+    "description": "Certified random number generator (RNG) by GamblingTec using Zend Math Rand",
+    "license": "BSD-3-Clause",
+    "homepage": "https://www.gamblingtec.com",
+    "config": {
+        "sort-packages": true
+    },
+    "authors": [
+        {
+            "name": "Brendan Nash",
+            "email": "brendan@gamblingtec.com"
+        }
+    ],
+    "keywords": [
+        "rng",
+        "random number generator",
+        "gambling rng",
+        "gamblingtec"
+    ],
+    "require": {
+        "php": "^7.1",
+        "zendframework/zend-math": "^3.2"
+	},
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^1.11.4"
+    },
+    "scripts": {
+		"cs-check": "php-cs-fixer --version && php-cs-fixer fix -v --diff --dry-run"
+	},
+    "autoload": {
+        "psr-4": {
+            "Gamblingtec\\RNG\\Utility\\": "src/"
+        }
+	},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev",
+            "dev-develop": "1.1.x-dev"
+        }
+    }
+}
