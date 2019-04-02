@@ -12,7 +12,7 @@ You can read about it here: https://docs.zendframework.com/zend-math/rand/
 
 ### Prerequisites
 
-- PHP 7.1 +
+- PHP 7 +
 
 ## Gambling License
 
