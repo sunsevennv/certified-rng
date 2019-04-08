@@ -34,6 +34,10 @@ or just composer install with the following line in your json file
 
 > "gamblingtec/certified-rng": "^1.0"
 
+## Third party wrappers using this class
+If you have written a class using our certified rng then let us know and we will add a link to it.
+* https://github.com/branoberc/rngendpoint
+
 ## Gambling License
 
 Should your organisation require an RNG certificate in order to obtain a gambling license, we can provide you with 
