@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.0.3]
+### Added
+- Example class
+### Updated
+- Readme content
+
 ## [1.0.2]
 ### Updated
 - Readme content
@@ -23,8 +29,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Initial release
 - This CHANGELOG file
 
-[Unreleased]: https://github.com/sunsevennv/certified-rng/compare/1.0.2...HEAD
-[1.0.1]: https://github.com/sunsevennv/certified-rng/compare/1.0.1...1.0.2
+[Unreleased]: https://github.com/sunsevennv/certified-rng/compare/1.0.3...HEAD
+[1.0.3]: https://github.com/sunsevennv/certified-rng/compare/1.0.2...1.0.3
+[1.0.2]: https://github.com/sunsevennv/certified-rng/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/sunsevennv/certified-rng/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/sunsevennv/certified-rng/compare/0.1.0...1.0.0
 [0.1.0]: https://github.com/sunsevennv/certified-rng/compare/e5ca6f5a194fbfa2932a00a4f1e98335c78145da...0.1.0
