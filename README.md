@@ -54,6 +54,8 @@ If you have written a class using our certified rng then let us know and we will
 Should your organisation require an RNG certificate in order to obtain a gambling license, we can provide you with 
 a certificate for the class.
 
+You can place your order here: https://gtec.curacaowebhosting.com/cart.php?gid=9
+
 * email: brendan [at] gamblingTec.com
 * WhatsApp: +44 (0)7498 105896
 * SA Mobile: +27 (0)60-457-8084
