@@ -1,15 +1,19 @@
 # GamblingTec RNG
 
 ## About
-This is a simple wrapper using Zend/Math/Rand which has been certified by Sunseven NV for use with
+This is a simple wrapper using Laminas/Laminas/Rand which has been certified by Sunseven NV for use with
 a Curacao Gambling License.
 
 The wrapper is freely available for use by the gambling community. By using this wrapper, we can assist you
 with RNG certification which is a pre-requisite of a gambling license.
 
-The advantages of using this wrapper is that we have already gone through the timely process of having the 
-Zend/Math/Rand class approved for gambling activities and for this reason we can offer you a certificate for
-your games quickly.
+When certifying software, we must submit test utilities to the test lab which they then use to generate large quantities
+of data. The lab then tests the data for randomness by running multiple tests against the data. This is a time consuming
+process often taking multiple hours to complete each test. For this reason, obtaining RNG certification can take a 
+number of weeks to obtain.
+
+The advantages of using this wrapper is that we have already written the test utilities needed by the lab who have our data
+on file. For this reason, we can obtain certification much quicker if you use our library.
 
 ### Test Utility (command line)
 
@@ -58,8 +62,5 @@ You can place your order here: https://gtec.curacaowebhosting.com/cart.php?gid=9
 
 * email: brendan [at] gamblingTec.com
 * WhatsApp: +44 (0)7498 105896
-* SA Mobile: +27 (0)60-457-8084
-* Sales office: +27 (0)21-839-5509
 * skype: brendanjnash
-* Discord: https://discord.gg/Kjy5qkq
 
