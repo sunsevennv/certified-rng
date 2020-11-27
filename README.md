@@ -62,8 +62,5 @@ You can place your order here: https://gtec.curacaowebhosting.com/cart.php?gid=9
 
 * email: brendan [at] gamblingTec.com
 * WhatsApp: +44 (0)7498 105896
-* SA Mobile: +27 (0)60-457-8084
-* Sales office: +27 (0)21-839-5509
 * skype: brendanjnash
-* Discord: https://discord.gg/Kjy5qkq
 
