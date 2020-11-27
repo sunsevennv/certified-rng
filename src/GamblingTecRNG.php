@@ -9,7 +9,7 @@
  */
 namespace Gamblingtec\RNG\Utility;
 
-use Zend\Math\Rand;
+use Laminas\Math\Rand;
 
 class GamblingTecRNG
 {
