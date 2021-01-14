@@ -20,9 +20,9 @@ on file. For this reason, we can obtain certification much quicker if you use ou
 For a demonstration of the GamblingTec RNG, please see: https://github.com/sunsevennv/gamblingtec-rng which is a 
 command line utility using the wrapper.
 
-### About Zend/Math/Rand
+### About Laminas/Math/Rand
 
-You can read about it here: https://docs.zendframework.com/zend-math/rand/
+You can read about it here: https://docs.laminas.dev/laminas-math/rand/
 
 ### Prerequisites
 
