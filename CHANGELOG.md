@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [1.1.1]
 ### Update
-- Documentation
+- Updated documentation to include UK, Malta.
 
 ## [1.1.0]
 ### Updated
