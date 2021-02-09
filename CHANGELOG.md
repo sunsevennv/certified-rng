@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.1.1]
+### Update
+- Documentation
+
 ## [1.1.0]
 ### Updated
 - Math has been moved to the Laminas project location
@@ -37,8 +41,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Initial release
 - This CHANGELOG file
 
-[Unreleased]: https://github.com/sunsevennv/certified-rng/compare/1.1.0...HEAD
-[1.0.3]: https://github.com/sunsevennv/certified-rng/compare/1.0.4...1.1.0
+[Unreleased]: https://github.com/sunsevennv/certified-rng/compare/1.1.1...HEAD
+[1.1.1]: https://github.com/sunsevennv/certified-rng/compare/1.1.0...1.1.1
+[1.1.0]: https://github.com/sunsevennv/certified-rng/compare/1.0.4...1.1.0
 [1.0.4]: https://github.com/sunsevennv/certified-rng/compare/1.0.3...1.0.4
 [1.0.3]: https://github.com/sunsevennv/certified-rng/compare/1.0.2...1.0.3
 [1.0.2]: https://github.com/sunsevennv/certified-rng/compare/1.0.1...1.0.2
