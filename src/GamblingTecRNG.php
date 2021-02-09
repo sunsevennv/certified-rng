@@ -1,6 +1,6 @@
 <?php
 /**
- * Certified GamblingTec RNG Provider for Zend/Math/Rand
+ * Certified GamblingTec RNG Provider for Laminas/Math/Rand
  *
  * @copyright Copyright (c) 2006-2019 SunSeven NV (http://www.sunseven-nv.com)
  * @license   BSD 3-Clause

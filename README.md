@@ -2,9 +2,9 @@
 
 ## About
 This is a simple wrapper using Laminas/Laminas/Rand which has been certified by Sunseven NV for use with
-a Curacao Gambling License.
+a UK, Malta and Curacao Gambling License.
 
-The wrapper is freely available for use by the gambling community. By using this wrapper, we can assist you
+The wrapper is freely available for use by the gambling community for their games. By using this wrapper, we can assist you
 with RNG certification which is a pre-requisite of a gambling license.
 
 When certifying software, we must submit test utilities to the test lab which they then use to generate large quantities
@@ -20,9 +20,9 @@ on file. For this reason, we can obtain certification much quicker if you use ou
 For a demonstration of the GamblingTec RNG, please see: https://github.com/sunsevennv/gamblingtec-rng which is a 
 command line utility using the wrapper.
 
-### About Zend/Math/Rand
+### About Laminas/Math/Rand
 
-You can read about it here: https://docs.zendframework.com/zend-math/rand/
+You can read about it here: https://docs.laminas.dev/laminas-math/rand/
 
 ### Prerequisites
 
@@ -55,12 +55,12 @@ If you have written a class using our certified rng then let us know and we will
 
 ## Gambling License & RNG Certification
 
-Should your organisation require an RNG certificate in order to obtain a gambling license, we can provide you with 
+Should your organisation require an RNG certificate fir your games in order to obtain a gambling license, we can provide you with 
 a certificate for the class.
 
 You can place your order here: https://gtec.curacaowebhosting.com/cart.php?gid=9
 
 * email: brendan [at] gamblingTec.com
 * WhatsApp: +44 (0)7498 105896
-* skype: brendanjnash
+* Skype/Telegram: brendanjnash
 
