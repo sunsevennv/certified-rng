@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.1.2]
+### Update
+- Lock Laminas-math to version 3.4.0
+
 ## [1.1.1]
 ### Update
 - Updated documentation to include UK, Malta.
